@@ -1,6 +1,6 @@
 ---
 title: Oxford University Academician Peter Bruce Visits Shanghai Jiao Tong University's Academy of Future Technology
-date: 2024-3-28
+date: 2024-03-28
 image: peter_group.jpg
 focal_point: 'top'
 ---
