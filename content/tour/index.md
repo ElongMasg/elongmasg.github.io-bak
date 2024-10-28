@@ -8,8 +8,8 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
+      - title: 👋 Welcome to the Gao group
+        content: We are dedicating to the next generation energy conversion material
         align: center
         background:
           image:
