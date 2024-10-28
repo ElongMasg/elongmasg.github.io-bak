@@ -14,7 +14,7 @@ superuser: true
 # Organizations/Affiliations
 organizations:
   - name: Shanghai Jiao Tong University
-    url: 'https://scholar.google.cz/citations?hl=en&user=QFZcAJgAAAAJ&view_op=list_works&sortby=pubdate'
+    url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -33,16 +33,13 @@ education:
     - course: Bachelor of Chemistry 
       institution: Fudan University
       year: 2013
-      
-work experience:
-  works:
-    - work: Postdoctoral fellow
+    - course: Postdoctoral fellow
       institution: University of Texas at Austin
       year: 2018-2020
-    - work: Postdoctoral fellow, 
+    - course: Postdoctoral fellow, 
       institution: Department of Materials, University of Oxford, UK
       year: 2020-2022 
-    - work: Associate Professor
+    - course: Associate Professor
       institution: Global institute of Future Technology, Shanghai Jiao Tong University
       year: 2023-present
       
