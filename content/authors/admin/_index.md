@@ -3,27 +3,27 @@
 title: Xiangwen Gao
 
 # Full Name (for SEO)
-first_name: Xiangwen
-last_name: Gao
+first_name: Nelson
+last_name: Bighetti
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-  role: Associate Professor of the Global institute of future technology
+role: Professor of Artificial Intelligence
+
 # Organizations/Affiliations
 organizations:
-  - name: Shanghai Jiao Tong University
+  - name: Stanford University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - All solid state battery
-  - Lithium–air battery
-  - Polyvalent ion battery
-  - Electrochemical energy storage system
+  - Artificial Intelligence
+  - Computational Linguistics
+  - Information Retrieval
 
 education:
   courses:
@@ -33,16 +33,7 @@ education:
     - course: Bachelor of Chemistry 
       institution: Fudan University
       year: 2013
-    - course: Postdoctoral fellow
-      institution: University of Texas at Austin
-      year: 2018-2020
-    - course: Postdoctoral fellow, 
-      institution: Department of Materials, University of Oxford, UK
-      year: 2020-2022 
-    - course: Associate Professor
-      institution: Global institute of Future Technology, Shanghai Jiao Tong University
-      year: 2023-present
-      
+
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -50,13 +41,13 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'xiangwen.gao@sjtu.edu.cn'
+    link: 'mailto:test@example.org'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
   - icon: google-scholar
     icon_pack: ai
-    link: 
+    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
@@ -67,10 +58,10 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'xiangwen.gao@sjtu.edu.cn'
+email: ''
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -78,6 +69,6 @@ user_groups:
   - Researchers
 ---
 
-Xiangwen Gao is a associate professor of Global institute of future technology. His research interests include all-solid-state battery, Lithium–air battery, Polyvalent ion battery and so on. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
