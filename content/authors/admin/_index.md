@@ -11,7 +11,7 @@ superuser: true
 
 # Role/position
   role: Associate Professor of the Global institute of future technology
-  url: 'https://gift.sjtu.edu.cn/gxw/main.htm'
+  url: ''
 # Organizations/Affiliations
 organizations:
   - name: Shanghai Jiao Tong University
