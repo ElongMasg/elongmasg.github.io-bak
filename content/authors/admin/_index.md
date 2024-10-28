@@ -11,7 +11,6 @@ superuser: true
 
 # Role/position
   role: Associate Professor of the Global institute of future technology
-  url: ''
 # Organizations/Affiliations
 organizations:
   - name: Shanghai Jiao Tong University
