@@ -1,0 +1,13 @@
+# Oxford University Academician Peter Bruce Visits Shanghai Jiao Tong University’s Academy of Future Technology
+
+**Date:** March 28, 2024
+
+From March 26-27, Peter G. Bruce, a Royal Society Fellow, visited Shanghai Jiao Tong University's Academy of Future Technology. Key highlights included:
+
+- **Lecture:** Delivered a talk on “Solid-State Batteries: Challenges in Interface Research,” sharing advances in lithium metal interfaces.
+- **Research Discussions:** Engaged with faculty and students on topics like battery materials and safety.
+- **Lab Visit:** Participated in a poster exhibition, expressing interest in future collaborations.
+
+![Peter Bruce Group](peter_group.jpg){: style="display: block; margin: 0 auto;" }
+
+[Read more (in Chinese)](https://gift.sjtu.edu.cn/2024/0403/c4774a8468/page.htm)
