@@ -29,15 +29,12 @@ interests:
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
+    - course: Master in Artificial Intelligence
       institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
+      year: 2023-present
+    - course: Bc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+      year: 2023
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
