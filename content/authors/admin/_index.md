@@ -3,27 +3,27 @@
 title: Xiangwen Gao
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Xiangwen
+last_name: Gao
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Associate Professor of battery
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
-    url: ''
+  - name: Shanghai Jiao Tong University
+    url: 'https://gift.sjtu.edu.cn/gxw/main.htm'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Lithium ion battery, All soild state battery and Lithium-air battery and so on.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Lithium ion battery
+  - All-soild-state battery
+  - Lithium-air battery
 
 education:
   courses:
