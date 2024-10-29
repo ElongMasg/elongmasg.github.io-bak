@@ -20,8 +20,8 @@ sections:
         country: China
         country_code: CNA
       coordinates:
-        latitude: '31.02181'
-        longitude: '121.43076'
+        latitude: '31.023754'
+        longitude: '121.426156'
       directions: Enter Building and take the stairs to the thrid floor
       office_hours:
         - 'Monday 10:00 to 13:00'
