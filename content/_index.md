@@ -8,14 +8,14 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
+        Future technology of energy and material
         Research Group
       image:
-        filename: welcome.jpg
+        filename: peter_group.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The **Gao lab** has been a center of excellence for next generation battery research, teaching, and practice since its founding in 2023.
   
   - block: collection
     content:
@@ -38,8 +38,8 @@ sections:
   
   - block: markdown
     content:
-      title:
-      subtitle: ''
+      title: hello, 你好哈哈哈哈哈
+      subtitle: '？？？？副标题'
       text:
     design:
       columns: '1'
