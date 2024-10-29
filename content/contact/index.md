@@ -13,16 +13,16 @@ sections:
       email: test@example.org
       phone: 888 888 88 88
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
+        street: dongchuan road
+        city: Shanghai
+        region: minghang
+        postcode: '124000'
+        country: China
+        country_code: CNA
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+        latitude: '31.02181'
+        longitude: '121.43076'
+      directions: Enter Building and take the stairs to the thrid floor
       office_hours:
         - 'Monday 10:00 to 13:00'
         - 'Wednesday 09:00 to 10:00'
