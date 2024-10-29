@@ -71,11 +71,5 @@ user_groups:
   - Phd
 ---
 
-赵文宇 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+赵文宇 is a .
 
-    - course: PhD of Battery Materials
-      institution: Department of Materials, University of Oxford, UK
-      year: 2018
-    - course: Bachelor of Chemistry 
-      institution: Fudan University
-      year: 2013
