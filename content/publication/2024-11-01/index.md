@@ -2,7 +2,18 @@
 title: "Microsphere LiMn0.6Fe0.4PO4/C cathode with unique rod-like secondary architecture for high energy lithium ion batteries"
 authors:
 - admin
-- Robert Ford
+- Liang Xie
+- Jiawu Cui
+- Yongliang Ma
+- Weibo Hua
+- Zhen Wang
+- Hao Wu
+- Taifan Yang
+- Zexun Tang
+- Xiangwen Gao
+- Xiaowei Wang*
+- Wei Tang
+- Yuping Wu
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
@@ -21,7 +32,7 @@ publication_types: ["article-journal"]
 publication: "*Chemical Engineering Journal, 1*(1)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: LiMnxFe1-xPO4/C is considered a promising next-generation cathode material with significant commercial potential, inheriting the safety of LiFePO4 while offering higher energy densities. However, the extremely low conductivity and the Jahn-Teller effect induced by Mn3+ limit its practical capacity and rate performance. Effective modifications can be achieved through particle nanonization and uniform carbon coating. Here, we synthesized microspherical LiMn0.6Fe0.4PO4/C cathode materials using a hydrothermal method combined with spray drying carbon coating. The cathode material exhibits a microsphere structure composed of aggregated nanorods with a uniform 3 nm carbon coating, showing good dispersibility, small specific surface area and high tap density. In-situ diffraction analysis showed that expanding the single-phase solid solution region during (de)lithiation can reduce the energy barrier for electron transport, improve the kinetics of the (dis)charge process, and enhance both cycling and rate performance. The initial capacity at 0.1C can reach 155 mAh/g, and the capacity remains at 133.5 mAh/g with a retention rate of 97.1 % after 300 cycles. The synergistic effect of particle nanonization and uniform carbon coating endows the LiMnxFe1-xPO4/C material with excellent electrochemical performance.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -34,7 +45,7 @@ featured: false
 # - name: ""
 #   url: ""
 url_pdf: https://www.sciencedirect.com/science/article/pii/S1385894724080045/pdfft?md5=631d4c3bf72e7a91cb4b53aaa9267858&pid=1-s2.0-S1385894724080045-main.pdf
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -44,7 +55,7 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
+image: featured.jpg
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
   preview_only: false
@@ -64,12 +75,4 @@ projects: []
 slides: example
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
