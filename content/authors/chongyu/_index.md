@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Grad Students of future energy center
+role: Grad Students of Gao lab
 
 # Organizations/Affiliations
 organizations:
